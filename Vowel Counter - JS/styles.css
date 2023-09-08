@@ -7,8 +7,8 @@
   --light-blue: #005490;
   --color-primary: #9d0191;
   --color-sec: #db6400;
-  --grey: #eee;
-  --dark-grey: #222831;
+  --color-grey: #eee;
+  --color-dark-grey: #222831;
 }
 
 * {
@@ -23,9 +23,16 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: var(--light-blue);
 }
 
+p {
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
 
 .container {
   max-width: 900px;
