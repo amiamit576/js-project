@@ -39,32 +39,3 @@ img {
   margin: 0 auto;
   padding: 0 20px;
 }
-section{
-  background-color: var(--black);
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-
-
-}
-section img{
-  width: 25px;
-  border-radius: 10 rem;
-}
-
-
-.online{
-  background-color: var(--light-blue);
-}
-section h1{
-  color:white;
-  font-size: 3rem;
-  font-weight: 600;
-}
-section p{
-  color:white;
-  font-size: 2rem;
- 
-}
